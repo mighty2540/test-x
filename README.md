@@ -1,2 +1,2 @@
 # test-x
-example learning
+A good idea!
